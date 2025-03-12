@@ -2,7 +2,7 @@
 **Empowering Businesses with Smart Solutions**  
 
 🔗 **Check out our explanation:** [YouTube Video](https://youtu.be/e0VW5B2aLjY?si=pT757qsGRttpH0rJ)  
-🔗 **Check out Live Demo:** [Vyapar Sarthi](https://vyapar-sarthi.vercel.app/](https://vyapar-sarthi.vercel.app/))
+🔗 **Check out Live Demo:** [Vyapar Sarthi]((https://vyapar-sarthi-topaz.vercel.app/))
 
 ## 📌 Overview  
 VyaparSarthi is a **comprehensive business management platform** designed to streamline operations, enhance decision-making, and optimize efficiency. Whether it's handling transactions, managing inventory, or analyzing business insights, VyaparSarthi is your **go-to intelligent assistant** for smoother operations.  
